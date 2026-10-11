@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+logs/*.log
+!logs/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+data/demo/*
+!data/demo/.gitkeep
+.DS_Store
